@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=AC_out5x Pin=J9-1
+Removed Pin From Net: NetName=AC_out5 Pin=J9-2
+Removed Pin From Net: NetName=24V Pin=J9-3
+Removed Pin From Net: NetName=AC_out1 Pin=JP4_ACout-1
+Removed Pin From Net: NetName=AC_out1x Pin=JP4_ACout-2
+Removed Pin From Net: NetName=AC_out2 Pin=JP4_ACout-3
+Removed Pin From Net: NetName=AC_out2x Pin=JP4_ACout-4
+Removed Pin From Net: NetName=AC_out3 Pin=JP4_ACout-5
+Removed Pin From Net: NetName=AC_out3x Pin=JP4_ACout-6
+Removed Pin From Net: NetName=AC_out4 Pin=JP4_ACout-7
+Removed Pin From Net: NetName=AC_out4x Pin=JP4_ACout-8
+Removed Pin From Net: NetName=AC_out5 Pin=JP4_ACout-9
+Removed Pin From Net: NetName=AC_out5x Pin=JP4_ACout-10
+Removed Member From Class: ClassName=Sheet1asc2 Member=JP4_ACout
+Change Component Footprint: Designator=J9 Old Footprint=PMN5A/PMN5D New Footprint=24V_Big_Relay
+Change Component Comment : Designator=J9 Old Comment=ssr_dcac5A New Comment=银触点JQX-60F60A大功率继电器大电流12V220V24V稳压器58F-40F63F
+Change component parameters: Designator = "J9" ("J9"); Footprint = "PMN5A/PMN5D"; UniqueID = "\UPOIGWMW" ("\UPOIGWMW")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "locolyl"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "银触点JQX-60F60A大功率继电器大电流12V220V24V稳压器58F-40F63F"; VariantName = "[No Variations]"
+Added Component: Designator=JP4(KF128-3.81-12P)
+Add component (AddParameter): Name = "BOM名称"; Value = "12P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AC_out1 Pin=JP4-1
+Added Pin To Net: NetName=AC_out1x Pin=JP4-2
+Added Pin To Net: NetName=AC_out2 Pin=JP4-3
+Added Pin To Net: NetName=AC_out2x Pin=JP4-4
+Added Pin To Net: NetName=AC_out3 Pin=JP4-5
+Added Pin To Net: NetName=AC_out3x Pin=JP4-6
+Added Pin To Net: NetName=AC_out4 Pin=JP4-7
+Added Pin To Net: NetName=AC_out4x Pin=JP4-8
+Added Pin To Net: NetName=24V Pin=JP4-9
+Added Pin To Net: NetName=AC_out5 Pin=JP4-11
+Added Pin To Net: NetName=AC_out5x Pin=JP4-12
+Added Pin To Net: NetName=24Vrelay Pin=JP4-10
+Added Pin To Net: NetName=24Vrelay Pin=Q9-3
+Added Net: Name=24Vrelay
+Added Member To Class: ClassName=Sheet1asc2 Member=Component JP4 HDR-1X12
+Added Room: Name=Sheet1asc2

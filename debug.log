@@ -1,2 +1,94 @@
 [0428/113004.653:INFO:CONSOLE(4)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.", source: https://dfm.jiepei.com/Scripts/jquery-1.11.0.min.js (4)
 [0428/113048.522:INFO:CONSOLE(1196)] "<div class="item title clearfix"><span class="process pull-left">JP-4W2987334/1</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">开料</span><span class="starting-time pull-left">04-13 21:53</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">内层线路</span><span class="starting-time pull-left">04-14 00:03</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">内层线路检验</span><span class="starting-time pull-left">04-14 02:49</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">内层蚀刻</span><span class="starting-time pull-left">04-14 02:59</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">内层蚀刻检验</span><span class="starting-time pull-left">04-14 03:44</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">棕化</span><span class="starting-time pull-left">04-14 03:54</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">压合</span><span class="starting-time pull-left">04-14 04:36</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">锣边框</span><span class="starting-time pull-left">04-14 11:22</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">钻孔</span><span class="starting-time pull-left">04-14 12:39</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">沉铜</span><span class="starting-time pull-left">04-14 16:33</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">电镀</span><span class="starting-time pull-left">04-15 00:16</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">线路</span><span class="starting-time pull-left">04-15 00:18</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">蚀刻</span><span class="starting-time pull-left">04-15 02:51</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">蚀刻检验</span><span class="starting-time pull-left">04-15 03:18</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">防焊</span><span class="starting-time pull-left">04-15 03:28</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">防焊对位</span><span class="starting-time pull-left">04-15 06:45</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">防焊检验</span><span class="starting-time pull-left">04-15 06:47</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">文字</span><span class="starting-time pull-left">04-15 06:47</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">表面处理</span><span class="starting-time pull-left">04-15 11:24</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">飞针</span><span class="starting-time pull-left">04-15 12:09</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">外形</span><span class="starting-time pull-left">04-15 14:48</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">成品检验</span><span class="starting-time pull-left">04-15 18:29</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">终检包装</span><span class="starting-time pull-left">04-15 18:30</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">包装入库</span><span class="starting-time pull-left">04-15 21:20</span></div>", source: https://dfm.jiepei.com/member/newmemberindex (1196)
+[0512/134128.567:INFO:CONSOLE(4)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.", source: https://dfm.jiepei.com/Scripts/jquery-1.11.0.min.js (4)
+[0512/134211.366:INFO:CONSOLE(4)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.", source: https://dfm.jiepei.com/Scripts/jquery-1.11.0.min.js (4)
+[0517/101957.947:INFO:CONSOLE(4)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.", source: https://dfm.jiepei.com/Scripts/jquery-1.11.0.min.js (4)
+[0517/102048.842:WARNING:resource_bundle.cc(357)] locale_file_path.empty() for locale 
+[0517/102048.842:ERROR:main_delegate.cc(839)] Could not load locale pak for en-US
+[0517/102048.902:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.903:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.903:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.903:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.903:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.903:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.903:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.903:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.903:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.903:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.903:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.903:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.903:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.903:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.903:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.903:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.903:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.904:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102048.916:WARNING:resource_bundle.cc(357)] locale_file_path.empty() for locale 
+[0517/102048.916:ERROR:main_delegate.cc(839)] Could not load locale pak for en-US
+[0517/102048.933:ERROR:viz_main_impl.cc(170)] Exiting GPU process due to errors during initialization
+[0517/102049.717:WARNING:resource_bundle.cc(357)] locale_file_path.empty() for locale 
+[0517/102049.717:ERROR:main_delegate.cc(839)] Could not load locale pak for en-US
+[0517/102050.198:WARNING:resource_bundle.cc(357)] locale_file_path.empty() for locale 
+[0517/102050.199:ERROR:main_delegate.cc(839)] Could not load locale pak for en-US
+[0517/102050.258:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102050.258:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102050.259:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102050.259:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102050.259:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102050.259:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102050.290:WARNING:resource_bundle.cc(357)] locale_file_path.empty() for locale 
+[0517/102050.290:ERROR:main_delegate.cc(839)] Could not load locale pak for en-US
+[0517/102052.516:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102052.516:ERROR:content_client.cc(243)] No localized string available for id 20106
+[0517/102052.529:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102052.529:ERROR:content_client.cc(243)] No localized string available for id 20107
+[0517/102052.530:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102052.530:ERROR:content_client.cc(243)] No localized string available for id 20107
+[0517/102052.678:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102052.678:ERROR:content_client.cc(243)] No localized string available for id 20107
+[0517/102052.678:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102052.678:ERROR:content_client.cc(243)] No localized string available for id 20107
+[0517/102052.919:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102052.919:ERROR:content_client.cc(243)] No localized string available for id 20106
+[0517/102053.025:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102053.025:ERROR:content_client.cc(243)] No localized string available for id 20106
+[0517/102054.238:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102054.238:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102111.582:INFO:CONSOLE(4)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.", source: https://dfm.jiepei.com/Scripts/jquery-1.11.0.min.js (4)
+[0517/102117.662:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102117.662:ERROR:content_client.cc(243)] No localized string available for id 20106
+[0517/102117.747:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102117.747:ERROR:content_client.cc(243)] No localized string available for id 20106
+[0517/102126.251:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102126.251:ERROR:content_client.cc(243)] No localized string available for id 20106
+[0517/102133.142:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102133.142:ERROR:content_client.cc(243)] No localized string available for id 20106
+[0517/102133.195:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0517/102133.196:ERROR:content_client.cc(243)] No localized string available for id 20106
+[0517/102146.961:INFO:CONSOLE(1486)] "<div class="item title clearfix"><span class="process pull-left">JP-4W3049308/1</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">开料</span><span class="starting-time pull-left">05-07 00:29</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">内层线路</span><span class="starting-time pull-left">05-07 01:35</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">内层线路检验</span><span class="starting-time pull-left">05-07 05:46</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">内层蚀刻</span><span class="starting-time pull-left">05-07 05:46</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">内层蚀刻检验</span><span class="starting-time pull-left">05-07 05:53</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">棕化</span><span class="starting-time pull-left">05-07 06:37</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">压合</span><span class="starting-time pull-left">05-07 07:28</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">锣边框</span><span class="starting-time pull-left">05-07 11:56</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">钻孔</span><span class="starting-time pull-left">05-07 22:39</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">除胶渣</span><span class="starting-time pull-left">05-08 02:58</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">沉铜</span><span class="starting-time pull-left">05-08 07:26</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">电镀</span><span class="starting-time pull-left">05-08 07:44</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">线路</span><span class="starting-time pull-left">05-08 07:44</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">蚀刻</span><span class="starting-time pull-left">05-08 08:57</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">蚀刻检验</span><span class="starting-time pull-left">05-08 09:09</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">防焊</span><span class="starting-time pull-left">05-08 10:39</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">防焊对位</span><span class="starting-time pull-left">05-08 10:55</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">防焊检验</span><span class="starting-time pull-left">05-08 13:10</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">文字</span><span class="starting-time pull-left">05-08 13:12</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">表面处理</span><span class="starting-time pull-left">05-08 16:15</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">飞针</span><span class="starting-time pull-left">05-08 17:34</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">外形</span><span class="starting-time pull-left">05-08 20:15</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">成品检验</span><span class="starting-time pull-left">05-08 22:28</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">终检包装</span><span class="starting-time pull-left">05-08 22:28</span></div><div class="item clearfix"><i class="status-success"></i><span class="process pull-left">包装入库</span><span class="starting-time pull-left">05-08 22:47</span></div>", source: https://dfm.jiepei.com/member/newmemberindex (1486)
