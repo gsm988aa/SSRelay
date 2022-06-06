@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=J7 Old Footprint=SSR_DCAC New Footprint=24V_Big_Relay
+Change Component Footprint: Designator=J8 Old Footprint=SSR_DCAC New Footprint=24V_Big_Relay
+Added Room: Name=Sheet1asc2

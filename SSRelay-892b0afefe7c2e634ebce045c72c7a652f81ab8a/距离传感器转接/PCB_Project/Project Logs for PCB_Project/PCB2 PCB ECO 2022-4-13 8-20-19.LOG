@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=R4-10k_var NewDesignator=R4
+Change Component Designator: OldDesignator=R5-5k_var NewDesignator=R5
+Change Component Designator: OldDesignator=无锡市新一代距离单元 NewDesignator=JP1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Room: Name=Sheet

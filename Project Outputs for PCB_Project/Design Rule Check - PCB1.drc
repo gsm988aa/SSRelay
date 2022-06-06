@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\gs\Desktop\SSRelay\PCB1.PcbDoc
-Date     : 2022/5/17
-Time     : 10:16:06
+PCB File : F:\¹ÌÌ¬¼ÌµçÆ÷°åSSRelay\PCB1.PcbDoc
+Date     : 2022/5/30
+Time     : 13:21:21
 
-Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=20mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=60mil) (InPolygon),(All)

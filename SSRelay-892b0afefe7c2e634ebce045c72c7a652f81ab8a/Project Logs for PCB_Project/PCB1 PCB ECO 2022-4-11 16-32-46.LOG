@@ -1,0 +1,31 @@
+Added Pin To Net: NetName=pwm_speed_5V Pin=JP3_PWR-5
+Added Pin To Net: NetName=pwm_speed Pin=JP3_PWR-6
+Added Pin To Net: NetName=AC_out1 Pin=JP4_ACout-1
+Added Pin To Net: NetName=AC_out1x Pin=JP4_ACout-2
+Added Pin To Net: NetName=AC_out2 Pin=JP4_ACout-3
+Added Pin To Net: NetName=AC_out2x Pin=JP4_ACout-4
+Added Pin To Net: NetName=AC_out3 Pin=JP4_ACout-5
+Added Pin To Net: NetName=AC_out3x Pin=JP4_ACout-6
+Added Pin To Net: NetName=AC_out4 Pin=JP4_ACout-7
+Added Pin To Net: NetName=AC_out4x Pin=JP4_ACout-8
+Added Pin To Net: NetName=AC_out5 Pin=JP4_ACout-9
+Added Pin To Net: NetName=AC_out5x Pin=JP4_ACout-10
+Added Pin To Net: NetName=GPIO_in1 Pin=Q1-2
+Added Pin To Net: NetName=GPIO_in2 Pin=Q2-2
+Added Pin To Net: NetName=GPIO_in3 Pin=Q3-2
+Added Pin To Net: NetName=GPIO_ot4 Pin=Q4-1
+Added Pin To Net: NetName=GPIO_ot5 Pin=Q5-1
+Added Pin To Net: NetName=GPIO_ot6 Pin=Q6-1
+Added Pin To Net: NetName=GPIO_ot7 Pin=Q7-1
+Added Pin To Net: NetName=GPIO_ot8 Pin=Q8-1
+Added Pin To Net: NetName=pwm_speed Pin=R1-1
+Added Pin To Net: NetName=24V_in1 Pin=J1-3
+Added Pin To Net: NetName=24V_in1 Pin=JP3_PWR-1
+Added Net: Name=24V_in1
+Added Pin To Net: NetName=24V_in2 Pin=J2-3
+Added Pin To Net: NetName=24V_in2 Pin=JP3_PWR-2
+Added Net: Name=24V_in2
+Added Pin To Net: NetName=24V_in3 Pin=J3-3
+Added Pin To Net: NetName=24V_in3 Pin=JP3_PWR-3
+Added Net: Name=24V_in3
+Added Room: Name=Sheet1

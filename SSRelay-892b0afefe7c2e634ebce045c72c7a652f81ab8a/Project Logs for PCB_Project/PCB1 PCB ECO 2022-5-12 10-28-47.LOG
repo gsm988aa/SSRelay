@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=pwm_speed Pin=JP1-10
+Removed Pin From Net: NetName=pwm_speed Pin=JP2-10
+Removed Pin From Net: NetName=3.3V Pin=JP3_PWR-4
+Removed Pin From Net: NetName=GND Pin=JP3_PWR-9
+Removed Pin From Net: NetName=GPIO_ot5 Pin=Q5-2
+Removed Pin From Net: NetName=GPIO_ot5 Pin=R15-1
+Change Component Footprint: Designator=DR4 Old Footprint=DO-15 New Footprint=SMB_L4.6-W3.6-LS5.3-BI
+Change Component Footprint: Designator=DR5 Old Footprint=DO-15 New Footprint=SMB_L4.6-W3.6-LS5.3-BI
+Change Component Footprint: Designator=DR6 Old Footprint=DO-15 New Footprint=SMB_L4.6-W3.6-LS5.3-BI
+Change Component Footprint: Designator=DR7 Old Footprint=DO-15 New Footprint=SMB_L4.6-W3.6-LS5.3-BI
+Change Component Footprint: Designator=DR8 Old Footprint=DO-15 New Footprint=SMB_L4.6-W3.6-LS5.3-BI
+Change Component Footprint: Designator=J8 Old Footprint=SSR_DCAC New Footprint=PMN5A/PMN5D
+Change Component Comment : Designator=J8 Old Comment=ssr_dcac New Comment=ssr_dcac5A
+Change Component Designator: OldDesignator=J4 NewDesignator=J5
+Change Component Designator: OldDesignator=J5 NewDesignator=J6
+Change Component Designator: OldDesignator=J6 NewDesignator=J7
+Change Component Designator: OldDesignator=J7 NewDesignator=J8
+Change Component Designator: OldDesignator=J8 NewDesignator=J9
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q6
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q7
+Change Component Designator: OldDesignator=Q7 NewDesignator=Q8
+Change Component Designator: OldDesignator=Q8 NewDesignator=Q9
+Change Component Designator: OldDesignator=Q9 NewDesignator=Q10
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R18 NewDesignator=R19
+Added Component: Designator=J4(SSR_DCDC)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "2982647"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/2982647/phoenix-contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/2982647.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "25.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2982647"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-2982647"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/2982647?qs=Mj9TL1%2FHg907%2FKjSTtcRdw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SOT23-3M)
+Add component (AddParameter): Name = "BOM名称"; Value = "N沟道场效应管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=3.3V Pin=JP3_PWR-9
+Added Pin To Net: NetName=3.3V Pin=Q4-3
+Added Pin To Net: NetName=GPIO_ot5 Pin=Q5-2
+Added Pin To Net: NetName=GPIO_ot6 Pin=Q6-2
+Added Pin To Net: NetName=GPIO_ot5 Pin=R15-1
+Added Pin To Net: NetName=GPIO_ot6 Pin=R16-1
+Change Net Name : Old Net Name=NetJ4_4 New Net Name=NetJ5_4
+Change Net Name : Old Net Name=NetJ5_4 New Net Name=NetJ6_4
+Change Net Name : Old Net Name=NetJ6_4 New Net Name=NetJ7_4
+Change Net Name : Old Net Name=NetJ7_4 New Net Name=NetJ8_4
+Change Net Name : Old Net Name=NetJ8_4 New Net Name=NetJ9_4
+Change Net Name : Old Net Name=NetQ9_2 New Net Name=NetQ10_2
+Added Pin To Net: NetName=24V_in4 Pin=J4-3
+Added Pin To Net: NetName=24V_in4 Pin=JP3_PWR-4
+Added Net: Name=24V_in4
+Added Pin To Net: NetName=GPIO_adc10 Pin=C10-2
+Added Pin To Net: NetName=GPIO_adc10 Pin=D2-2
+Added Pin To Net: NetName=GPIO_adc10 Pin=JP1-10
+Added Pin To Net: NetName=GPIO_adc10 Pin=JP2-10
+Added Net: Name=GPIO_adc10
+Added Pin To Net: NetName=GPIO_in4 Pin=JP1-4
+Added Pin To Net: NetName=GPIO_in4 Pin=JP2-4
+Added Pin To Net: NetName=GPIO_in4 Pin=JP3_PWR-8
+Added Pin To Net: NetName=GPIO_in4 Pin=Q4-2
+Added Net: Name=GPIO_in4
+Added Pin To Net: NetName=GPIO_ot9 Pin=JP1-9
+Added Pin To Net: NetName=GPIO_ot9 Pin=JP2-9
+Added Net: Name=GPIO_ot9
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=Q4-1
+Added Net: Name=NetJ4_2
+Change Class Name : Old Net Name=Sheet1 New Net Name=Sheet1asc2
+Added Member To Class: ClassName=Sheet1asc2 Member=Component J9 ssr_dcac5A
+Added Member To Class: ClassName=Sheet1asc2 Member=Component Q10 SS8050
+Added Room: Name=Sheet1asc2
