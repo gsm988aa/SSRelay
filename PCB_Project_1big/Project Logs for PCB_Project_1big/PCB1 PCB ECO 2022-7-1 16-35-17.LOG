@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=24V Pin=JP4-5
+Removed Pin From Net: NetName=24V Pin=JP4-7
+Removed Pin From Net: NetName=GPIO_ot6 Pin=Q7-2
+Removed Pin From Net: NetName=GPIO_ot7 Pin=Q8-2
+Removed Pin From Net: NetName=GPIO_ot8 Pin=Q9-2
+Removed Pin From Net: NetName=GPIO_ot6 Pin=R17-1
+Removed Pin From Net: NetName=GPIO_ot7 Pin=R18-1
+Removed Pin From Net: NetName=GPIO_ot8 Pin=R19-1
+Change Component Footprint: Designator=J7 Old Footprint=24V_Big_Relay New Footprint=SSR_DCAC
+Change Component Footprint: Designator=J8 Old Footprint=24V_Big_Relay New Footprint=SSR_DCAC
+Change Component Footprint: Designator=J1 Old Footprint=2982647 New Footprint=SSR_DCDC
+Change Component Footprint: Designator=J2 Old Footprint=2982647 New Footprint=SSR_DCDC
+Change Component Footprint: Designator=J3 Old Footprint=2982647 New Footprint=SSR_DCDC
+Change Component Comment : Designator=J7 Old Comment=银触点JQX-60F60A大功率继电器大电流12V220V24V稳压器58F-40F63F New Comment=ssr_dcac
+Change Component Comment : Designator=J8 Old Comment=银触点JQX-60F60A大功率继电器大电流12V220V24V稳压器58F-40F63F New Comment=ssr_dcac
+Change component parameters: Designator = "J7" ("J7"); Footprint = "24V_Big_Relay"; UniqueID = "\BXFOGHGA" ("\BXFOGHGA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "2982647"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/2982647/phoenix-contact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/2982647.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "25.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2982647"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "651-2982647"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/2982647?qs=Mj9TL1%2FHg907%2FKjSTtcRdw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J8" ("J8"); Footprint = "24V_Big_Relay"; UniqueID = "\LMVKMIWI" ("\LMVKMIWI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "2982647"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/2982647/phoenix-contact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/2982647.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "25.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2982647"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "651-2982647"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/2982647?qs=Mj9TL1%2FHg907%2FKjSTtcRdw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=DR3(SMB_L4.6-W3.6-LS5.3-BI)
+Add component (AddParameter): Name = "BOM名称"; Value = "瞬态电压抑制二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=DR4(SMB_L4.6-W3.6-LS5.3-BI)
+Add component (AddParameter): Name = "BOM名称"; Value = "瞬态电压抑制二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=24V Pin=J7-3
+Added Pin To Net: NetName=24V Pin=J8-3
+Added Pin To Net: NetName=GPIO_ot7 Pin=Q7-2
+Added Pin To Net: NetName=GPIO_ot8 Pin=Q8-2
+Added Pin To Net: NetName=GPIO_ot9 Pin=Q9-2
+Added Pin To Net: NetName=GPIO_ot7 Pin=R17-1
+Added Pin To Net: NetName=GPIO_ot8 Pin=R18-1
+Added Pin To Net: NetName=GPIO_ot9 Pin=R19-1
+Change Net Name : Old Net Name=24Vrelay3 New Net Name=24Vrelay1
+Added Pin To Net: NetName=AC_out3 Pin=DR3-1
+Added Pin To Net: NetName=AC_out3 Pin=J7-2
+Added Pin To Net: NetName=AC_out3 Pin=JP4-5
+Added Net: Name=AC_out3
+Added Pin To Net: NetName=AC_out3x Pin=DR3-2
+Added Pin To Net: NetName=AC_out3x Pin=J7-1
+Added Pin To Net: NetName=AC_out3x Pin=JP4-6
+Added Net: Name=AC_out3x
+Added Pin To Net: NetName=AC_out4 Pin=DR4-1
+Added Pin To Net: NetName=AC_out4 Pin=J8-2
+Added Pin To Net: NetName=AC_out4 Pin=JP4-7
+Added Net: Name=AC_out4
+Added Pin To Net: NetName=AC_out4x Pin=DR4-2
+Added Pin To Net: NetName=AC_out4x Pin=J8-1
+Added Pin To Net: NetName=AC_out4x Pin=JP4-8
+Added Net: Name=AC_out4x
+Added Pin To Net: NetName=NetJ7_4 Pin=J7-4
+Added Pin To Net: NetName=NetJ7_4 Pin=Q7-3
+Added Net: Name=NetJ7_4
+Added Pin To Net: NetName=NetJ8_4 Pin=J8-4
+Added Pin To Net: NetName=NetJ8_4 Pin=Q8-3
+Added Net: Name=NetJ8_4
+Added Member To Class: ClassName=Sheet1asc2 Member=Component DR3 1.5KE300CA
+Added Member To Class: ClassName=Sheet1asc2 Member=Component DR4 1.5KE300CA
+Added Room: Name=Sheet1asc2

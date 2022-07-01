@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GPIO_ot6 Pin=Q7-2
+Removed Pin From Net: NetName=GPIO_ot7 Pin=Q8-2
+Removed Pin From Net: NetName=GPIO_ot8 Pin=Q9-2
+Removed Pin From Net: NetName=GPIO_ot6 Pin=R17-1
+Removed Pin From Net: NetName=GPIO_ot7 Pin=R18-1
+Removed Pin From Net: NetName=GPIO_ot8 Pin=R19-1
+Added Pin To Net: NetName=GPIO_ot7 Pin=Q7-2
+Added Pin To Net: NetName=GPIO_ot8 Pin=Q8-2
+Added Pin To Net: NetName=GPIO_ot9 Pin=Q9-2
+Added Pin To Net: NetName=GPIO_ot7 Pin=R17-1
+Added Pin To Net: NetName=GPIO_ot8 Pin=R18-1
+Added Pin To Net: NetName=GPIO_ot9 Pin=R19-1
+Change Class Name : Old Net Name=Sheet1asc2 New Net Name=Sheet1_3big
+Added Room: Name=Sheet1_3big
